@@ -14,9 +14,9 @@ class MySSOServer extends Server
      * @var array
      */
     private static $brokers = [
-        'Alice' => ['secret'=>'8iwzik1bwd'],
-        'Greg' => ['secret'=>'7pypoox2pc'],
-        'Julias' => ['secret'=>'ceda63kmhp']
+        'Uipj' => ['secret'=>'8iwzik1bwd'],
+        'Vrr' => ['secret'=>'7pypoox2pc'],
+        'Desaparecidos' => ['secret'=>'ceda63kmhp']
     ];
     /**
      * Get the API secret of a broker and other info
